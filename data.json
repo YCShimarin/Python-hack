@@ -1,0 +1,26 @@
+{
+    "status": true,
+    "data": {
+        "id": "0314",
+        "lokasi": "KOTA PADANG",
+        "daerah": "SUMATERA BARAT",
+        "koordinat": {
+            "lat": -0.9241777777777778,
+            "lon": 100.36206666666666,
+            "lintang": "0\u00b0 55' 27.04\" S",
+            "bujur": "100\u00b0 21' 43.44\" E"
+        },
+        "jadwal": {
+            "tanggal": "Senin, 17/04/2023",
+            "imsak": "04:50",
+            "subuh": "05:00",
+            "terbit": "06:12",
+            "dhuha": "06:40",
+            "dzuhur": "12:22",
+            "ashar": "15:37",
+            "maghrib": "18:24",
+            "isya": "19:33",
+            "date": "2023-04-17"
+        }
+    }
+}
